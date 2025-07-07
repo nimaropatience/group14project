@@ -1,0 +1,9 @@
+500:02:27.063130 Log continuation - Log started 2024-12-09T09:34:27.672212400Z
+500:02:44.178376 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x864
+500:03:33.774240 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x888
+500:04:04.597775 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x864
+500:05:56.285148 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x888
+500:07:17.970508 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x912
+500:07:33.536453 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x864
+500:16:20.025200 GUI: UICommon: Commit data request...
+500:16:20.077880 GUI: UICommon: Handling aboutToQuit request..

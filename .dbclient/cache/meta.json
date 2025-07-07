@@ -1,0 +1,124 @@
+{
+    "1741282922463#foreignKey": [
+        {
+            "constraint_name": "order1_ibfk_1",
+            "table_schema": "home",
+            "table_name": "order1",
+            "column_name": "custID",
+            "referenced_schema": "home",
+            "referenced_table": "customer",
+            "referenced_column": "custID"
+        },
+        {
+            "constraint_name": "order1_ibfk_2",
+            "table_schema": "home",
+            "table_name": "order1",
+            "column_name": "productID",
+            "referenced_schema": "home",
+            "referenced_table": "product",
+            "referenced_column": "productID"
+        },
+        {
+            "constraint_name": "orders_ibfk_1",
+            "table_schema": "home",
+            "table_name": "orders",
+            "column_name": "custID",
+            "referenced_schema": "home",
+            "referenced_table": "customer",
+            "referenced_column": "custID"
+        },
+        {
+            "constraint_name": "orders_ibfk_2",
+            "table_schema": "home",
+            "table_name": "orders",
+            "column_name": "productID",
+            "referenced_schema": "home",
+            "referenced_table": "product",
+            "referenced_column": "productID"
+        },
+        {
+            "constraint_name": "customer1_ibfk_1",
+            "table_schema": "market",
+            "table_name": "customer1",
+            "column_name": "prdtID",
+            "referenced_schema": "market",
+            "referenced_table": "item",
+            "referenced_column": "prdtID"
+        }
+    ],
+    "1741353767294#foreignKey": [
+        {
+            "constraint_name": "creditsales_ibfk_1",
+            "table_schema": "gcdl",
+            "table_name": "creditsales",
+            "column_name": "ProduceId",
+            "referenced_schema": "gcdl",
+            "referenced_table": "produce",
+            "referenced_column": "ProduceId"
+        },
+        {
+            "constraint_name": "stockmanagement_ibfk_1",
+            "table_schema": "gcdl",
+            "table_name": "stockmanagement",
+            "column_name": "ProduceId",
+            "referenced_schema": "gcdl",
+            "referenced_table": "produce",
+            "referenced_column": "ProduceId"
+        },
+        {
+            "constraint_name": "institution_ibfk_1",
+            "table_schema": "ict_scholarships",
+            "table_name": "institution",
+            "column_name": "ApplicantID",
+            "referenced_schema": "ict_scholarships",
+            "referenced_table": "applicant",
+            "referenced_column": "ApplicantID"
+        },
+        {
+            "constraint_name": "appointment_ibfk_1",
+            "table_schema": "makeupbusinessdb",
+            "table_name": "appointment",
+            "column_name": "StaffID",
+            "referenced_schema": "makeupbusinessdb",
+            "referenced_table": "staff",
+            "referenced_column": "StaffID"
+        },
+        {
+            "constraint_name": "patient_ibfk_1",
+            "table_schema": "makeupbusinessdb",
+            "table_name": "patient",
+            "column_name": "BillingID",
+            "referenced_schema": "makeupbusinessdb",
+            "referenced_table": "billing",
+            "referenced_column": "BillingID"
+        },
+        {
+            "constraint_name": "prescription_ibfk_1",
+            "table_schema": "makeupbusinessdb",
+            "table_name": "prescription",
+            "column_name": "StaffID",
+            "referenced_schema": "makeupbusinessdb",
+            "referenced_table": "staff",
+            "referenced_column": "StaffID"
+        },
+        {
+            "constraint_name": "customer_ibfk_1",
+            "table_schema": "market",
+            "table_name": "customer",
+            "column_name": "prdtID",
+            "referenced_schema": "market",
+            "referenced_table": "item",
+            "referenced_column": "prdtID"
+        },
+        {
+            "constraint_name": "customer1_ibfk_1",
+            "table_schema": "market",
+            "table_name": "customer1",
+            "column_name": "prdtID",
+            "referenced_schema": "market",
+            "referenced_table": "item",
+            "referenced_column": "prdtID"
+        }
+    ],
+    "1743677432771#foreignKey": []
+}

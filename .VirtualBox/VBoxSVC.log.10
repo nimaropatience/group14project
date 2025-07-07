@@ -1,0 +1,4 @@
+343:21:08.993911 MainPower Log continuation - Log started 2024-12-09T09:34:27.240739900Z
+343:21:09.564942          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+411:19:38.416751          Saving settings file "C:\Users\Torach\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+411:19:38.416901          Log rotated - Log started 2024-12-09T09:34:27.240739900Z

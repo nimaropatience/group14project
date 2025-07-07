@@ -1,0 +1,7 @@
+330:46:37.121990 Log continuation - Log started 2024-12-09T09:34:27.672212400Z
+330:46:37.122106 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 912x1368
+330:46:38.882115 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenResized: Screen 0 is formally resized to: 0x0 x 1368x912
+330:46:38.882254 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x912
+330:46:43.848791 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x864
+331:09:50.035748 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1368x888
+331:09:50.035877 Log rotated - Log started 2024-12-09T09:34:27.672212400Z
